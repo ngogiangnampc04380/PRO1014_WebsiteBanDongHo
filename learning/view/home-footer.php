@@ -1,4 +1,10 @@
-<div class="container" st>
+
+
+</main>
+        <footer id="footer" class="bg-dark text-white py-5">
+
+
+        <div class="container" st>
             <div class="row">
             <div class="col-12 col-md-6 col-gl-4 col-xl-3">
                 <ul class="menu-footer">
@@ -37,3 +43,14 @@
             </div>
             
         </div>
+   
+
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v19.0" nonce="2jPVz5M2"></script>
+</body>
+
+</html>
