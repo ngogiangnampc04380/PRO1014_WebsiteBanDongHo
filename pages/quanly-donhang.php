@@ -1,5 +1,6 @@
 <?php include './layout/header.php'?>
 <?php include './layout/aside.php'?>
+<?php include './layout/toolbar.php'?>
 <!DOCTYPE html>
 <!--
 Author: Keenthemes

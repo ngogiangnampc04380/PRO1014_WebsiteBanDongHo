@@ -78,7 +78,7 @@
 									</a>
 								</div>
 								<div class="menu-item">
-									<a class="menu-link" href="../../demo1/dist/landing.html">
+									<a class="menu-link" href="./quanly-thongke.php">
 										<span class="menu-icon">
 											<!--begin::Svg Icon | path: icons/duotune/communication/com001.svg-->
 											<span class="svg-icon svg-icon-2">
@@ -90,7 +90,7 @@
 											</span>
 											<!--end::Svg Icon-->
 										</span>
-										<span class="menu-title">Bổ sung sau(nếu có)</span>
+										<span class="menu-title">Quản lý thống kê </span>
 									</a>
 								</div>
 								
