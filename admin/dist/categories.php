@@ -75,7 +75,7 @@
                                                 <span class="svg-icon svg-icon-3">
                                                     <i class="bi bi-screwdriver"></i>
                                                 </span>
-                                                < </a>
+                                                 </a>
                                                     <a href="#" class="btn btn-icon btn-bg-light btn-active-color-primary btn-sm">
 
                                                         <span class="svg-icon svg-icon-3">
