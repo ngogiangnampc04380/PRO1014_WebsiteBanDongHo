@@ -1953,7 +1953,7 @@
       height: 400px;
     }
     .login_part_text_iner, .login_part_form_iner{
-      display: table-cell;
+
       vertical-align: middle; 
     }
   }
@@ -2162,6 +2162,7 @@
 }
 .cart_area{
   .btn_1{
+    text-decoration: none;
     border: 1px solid transparent;
 
     &:hover{
