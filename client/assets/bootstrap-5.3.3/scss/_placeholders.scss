@@ -2,8 +2,6 @@
   display: inline-block;
   min-height: 1em;
   vertical-align: middle;
-  opacity: $placeholder-opacity-max;
-
   &.btn::before {
     display: inline-block;
     content: "";

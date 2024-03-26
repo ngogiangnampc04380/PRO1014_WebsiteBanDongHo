@@ -8,7 +8,7 @@
                         <div class="single-footer-caption mb-30">
                             <!-- logo -->
                             <div class="footer-logo">
-                                <a href="index.html"><img src="/public/assets/img/logo.jpg" width="130" height="100" alt="aaaa"></a>
+                                <a href="index.html"><img src="/client/assets/img/logo.jpg" width="130" height="100" alt="aaaa"></a>
                             </div>
                             <div class="footer-tittle">
                                 <div class="footer-pera">
@@ -62,8 +62,9 @@
                     <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         Copyright &copy;<script>
                             document.write(new Date().getFullYear());
-                        </script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                        </script> bởi Giang Nam
+                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    </p>
                 </div>
             </div>
         </div>
@@ -75,7 +76,7 @@
     <div class="h-100 d-flex align-items-center justify-content-center">
         <div class="search-close-btn">+</div>
         <form class="search-model-form">
-            <input type="text" id="search-input" placeholder="Searching key.....">
+            <input type="text" id="search-input" placeholder="Tìm sản phẩm">
         </form>
     </div>
 </div>
@@ -83,38 +84,38 @@
 
 <!-- JS here -->
 
-<script src="/public/assets/js/client/vendor/modernizr-3.5.0.min.js"></script>
+<script src="/client/assets/js/vendor/modernizr-3.5.0.min.js"></script>
 <!-- Jquery, Popper, Bootstrap -->
-<script src="/public/assets/js/client/vendor/jquery-1.12.4.min.js"></script>
-<script src="/public/assets/js/client/popper.min.js"></script>
-<script src="/public/assets/bootstrap-5.3.3/dist/js/bootstrap.min.js"></script>
+<script src="/client/assets/js/vendor/jquery-1.12.4.min.js"></script>
+<script src="/client/assets/js/popper.min.js"></script>
+<script src="/client/assets/bootstrap-5.3.3/dist/js/bootstrap.min.js"></script>
 <!-- Jquery Mobile Menu -->
-<script src="/public/assets/js/client/jquery.slicknav.min.js"></script>
+<script src="/client/assets/js/jquery.slicknav.min.js"></script>
 
 <!-- Jquery Slick , Owl-Carousel Plugins -->
-<script src="/public/assets/js/client/owl.carousel.min.js"></script>
-<script src="/public/assets/js/client/slick.min.js"></script>
+<script src="/client/assets/js/owl.carousel.min.js"></script>
+<script src="/client/assets/js/slick.min.js"></script>
 
 <!-- One Page, Animated-HeadLin -->
-<script src="/public/assets/js/client/wow.min.js"></script>
-<script src="/public/assets/js/client/animated.headline.js"></script>
+<script src="/client/assets/js/wow.min.js"></script>
+<script src="/client/assets/js/animated.headline.js"></script>
 
 <!-- Scroll up, nice-select, sticky -->
-<script src="/public/assets/js/client/jquery.scrollUp.min.js"></script>
-<script src="/public/assets/js/client/jquery.nice-select.min.js"></script>
-<script src="/public/assets/js/client/jquery.sticky.js"></script>
-<script src="/public/assets/js/client/jquery.magnific-popup.js"></script>
+<script src="/client/assets/js/jquery.scrollUp.min.js"></script>
+<script src="/client/assets/js/jquery.nice-select.min.js"></script>
+<script src="/client/assets/js/jquery.sticky.js"></script>
+<script src="/client/assets/js/jquery.magnific-popup.js"></script>
 
 <!-- contact js -->
-<script src="/public/assets/js/client/contact.js"></script>
-<script src="/public/assets/js/client/jquery.form.js"></script>
-<script src="/public/assets/js/client/jquery.validate.min.js"></script>
-<script src="/public/assets/js/client/mail-script.js"></script>
-<script src="/public/assets/js/client/jquery.ajaxchimp.min.js"></script>
+<script src="/client/assets/js/contact.js"></script>
+<script src="/client/assets/js/jquery.form.js"></script>
+<script src="/client/assets/js/jquery.validate.min.js"></script>
+<script src="/client/assets/js/mail-script.js"></script>
+<script src="/client/assets/js/jquery.ajaxchimp.min.js"></script>
 
 <!-- Jquery Plugins, main Jquery -->
-<script src="/public/assets/js/client/plugins.js"></script>
-<script src="/public/assets/js/client/main.js"></script>
+<script src="/client/assets/js/plugins.js"></script>
+<script src="/client/assets/js/main.js"></script>
 
 </body>
 
